@@ -1,0 +1,19 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // "prettier.requireConfig": true,
+    "editor.formatOnSaveMode": "file",
+    "editor.formatOnPaste": false,
+    // "editor.formatOnSaveMode": "modificationsIfAvailable",
+    "github.copilot.completions.chat.enabled": false,
+    "python.analysis.autoImportCompletions": true
+}
